@@ -1,0 +1,24 @@
+{
+  "name": "atv1ppi2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "express",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiMatos2004/atv1PPI2025.git"
+  },
+  "author": "Guilherme de Matos Russo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiMatos2004/atv1PPI2025/issues"
+  },
+  "homepage": "https://github.com/GuiMatos2004/atv1PPI2025#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
